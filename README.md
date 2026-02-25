@@ -56,9 +56,14 @@
   <a href="https://linkedin.com/in/rathod-savan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
+
+
+  
   <a href="https://myportfolio-y5jy.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox" />
   </a>
+
+
   <a href="mailto:savanr1127@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>

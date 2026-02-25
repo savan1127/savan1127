@@ -13,8 +13,39 @@
 
 ## 🛠️ Tech Stack
 
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,git,github" />
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  
+  <a href="https://tailwindcss.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  
+  <a href="https://getbootstrap.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  
+  <a href="https://git-scm.com/docs" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  
+  <a href="https://docs.github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 - ⚛️ React JS  

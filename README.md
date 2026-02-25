@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Savan Patel</h1>
+<h1 align="center">Hi 👋, I'm Savan Rathod</h1>
 <h3 align="center">React JS Developer | SPA & Landing Page Specialist | Unbounce Expert</h3>
 
 ---

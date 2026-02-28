@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=savan1127&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=savan1127&theme=radical&cache_seconds=60"/>
 </p>
 
 ---

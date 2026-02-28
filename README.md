@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Savan Rathod</h1>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=750&lines=React+JS+Developer;SPA+Architecture+Specialist;Landing+Page+Optimization+Expert;Unbounce+Developer;Building+Scalable+Web+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=3500&pause=1200&color=111827&center=true&vCenter=true&width=900&lines=Frontend+Developer;React+JS+Specialist;SPA+Architecture+Expert;Landing+Page+Optimization;Unbounce+Development+Expert;Performance-Driven+Web+Experiences" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=2&section=header"/>
 </p>
 
 ---
@@ -17,9 +19,22 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,git,github" />
+<p> 
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=react" /> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=js" /> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a> 
+  <a href="https://tailwindcss.com/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=tailwind" /> </a>
+  <a href="https://getbootstrap.com/docs/" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
+  <a href="https://git-scm.com/docs" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>
+  <a href="https://docs.github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=github" /> </a> 
 </p>
+
 
 - ⚛️ React JS  
 - 🟨 JavaScript (ES6+)  
@@ -34,7 +49,7 @@
 ## 🔥 Featured Projects
 
 ### 🎬 Video Food Website
-Modern React-based food platform with clean UI and responsive design.
+React-based full-stack food app with dynamic rendering and responsive frontend architecture.
 
 ### 🌦️ Weather App
 Real-time weather application using API integration.

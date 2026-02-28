@@ -71,12 +71,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savan1127&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan1127&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=savan1127&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savan1127&layout=compact&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=savan1127&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=savan1127&theme=radical&hide_border=true"/>
 </p>
 
 ---

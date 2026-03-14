@@ -101,7 +101,7 @@ Performance-optimized portfolio showcasing projects & skills.
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://myportfolio-y5jy.vercel.app/" target="_blank">
+  <a href="https://savan1127.github.io/myportfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=firefox" />
   </a>
 
